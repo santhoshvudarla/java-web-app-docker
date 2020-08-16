@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To RAJA Technologies, Marathahalli, </h2>
+			<h2>Welcome To RAJA2 Technologies, Marathahalli, </h2>
 			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; RAJA Technologies 2019</p>
+		<p>&copy; RAJA2 Technologies 2019</p>
 	</footer>
 </div>
 

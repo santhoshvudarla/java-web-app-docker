@@ -28,7 +28,7 @@
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Welcome Santhosh!
 			</c:if>
 		<p>
 			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy;  Technologies 2019</p>
+		<p>&copy; RAJA Technologies 2019</p>
 	</footer>
 </div>
 
